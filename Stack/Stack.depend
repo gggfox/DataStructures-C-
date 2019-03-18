@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1551837739 source:c:\users\electel\desktop\stack\main.cpp
+	<iostream>
+	<sstream>
+	<stack>
+	<queue>
+	<string>
+

@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1549737381 source:c:\users\electel\desktop\linkedlist\src\linkedlist.cpp
+	"LinkedList.h"
+
+1550541324 c:\users\electel\desktop\linkedlist\include\linkedlist.h
+	<iostream>
+	"Node.h"
+
+1550541235 c:\users\electel\desktop\linkedlist\include\node.h
+
+1549737402 source:c:\users\electel\desktop\linkedlist\src\node.cpp
+	"Node.h"
+
+1551193964 source:c:\users\electel\desktop\linkedlist\main.cpp
+	<iostream>
+	"LinkedList.h"
+	"stack.h"
+
+1551194452 c:\users\electel\desktop\linkedlist\include\stack.h
+	<iostream>
+	"Node.h"
+
+1551193624 source:c:\users\electel\desktop\linkedlist\src\stack.cpp
+	"stack.h"
+
+1551194452 source:c:\users\electel\desktop\linkedlist\src\queue.cpp
+	"queue.h"
+
+1551196223 c:\users\electel\desktop\linkedlist\include\queue.h
+	"Node.h"
+	<iostream>
+

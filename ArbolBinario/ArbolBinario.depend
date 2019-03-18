@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1552665007 source:c:\users\electel\desktop\arbolbinario\main.cpp
+	"BST.h"
+	<iostream>
+
+1552664050 source:c:\users\electel\desktop\arbolbinario\src\bst.cpp
+
+1552665192 c:\users\electel\desktop\arbolbinario\include\bst.h
+	"NodeT.h"
+	<cstddef>
+	<iostream>
+
+1552664079 c:\users\electel\desktop\arbolbinario\include\nodet.h
+	<iostream>
+	<cstddef>
+
