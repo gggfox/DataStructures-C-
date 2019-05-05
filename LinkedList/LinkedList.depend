@@ -30,3 +30,35 @@
 	"Node.h"
 	<iostream>
 
+1552955858 source:/home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/main.cpp
+	<iostream>
+	"LinkedList.h"
+	"stack.h"
+	"queue.h"
+
+1552955858 /home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/include/LinkedList.h
+	<iostream>
+	"Node.h"
+
+1552955858 /home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/include/Node.h
+
+1552955858 /home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/include/stack.h
+	<iostream>
+	"Node.h"
+
+1552955858 /home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/include/queue.h
+	"Node.h"
+	<iostream>
+
+1552955858 source:/home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/src/LinkedList.cpp
+	"LinkedList.h"
+
+1552955858 source:/home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/src/Node.cpp
+	"Node.h"
+
+1552955858 source:/home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/src/queue.cpp
+	"queue.h"
+
+1552955858 source:/home/gerardo/Itesm/Data Structures/DataStructures-C-/LinkedList/src/stack.cpp
+	"stack.h"
+

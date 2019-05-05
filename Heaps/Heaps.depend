@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1556327306 source:/home/gerardo/Documents/cpp/Heaps/main.cpp
+	<iostream>
+	"heap.h"
+
+1556026901 source:/home/gerardo/Documents/cpp/Heaps/src/heap.cpp
+
+1556327263 /home/gerardo/Documents/cpp/Heaps/include/heap.h
+	<iostream>
+	<vector>
+
+1556327447 /home/gerardo/Documents/cpp/Heaps/heap.h
+	<iostream>
+	<vector>
+

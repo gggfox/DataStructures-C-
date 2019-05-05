@@ -14,3 +14,18 @@
 	<iostream>
 	<cstddef>
 
+1552955858 source:/home/gerardo/Itesm/Data Structures/DataStructures-C-/ArbolBinario/main.cpp
+	"BST.h"
+	<iostream>
+
+1552955858 /home/gerardo/Itesm/Data Structures/DataStructures-C-/ArbolBinario/include/BST.h
+	"NodeT.h"
+	<cstddef>
+	<iostream>
+
+1552955858 /home/gerardo/Itesm/Data Structures/DataStructures-C-/ArbolBinario/include/NodeT.h
+	<iostream>
+	<cstddef>
+
+1552955858 source:/home/gerardo/Itesm/Data Structures/DataStructures-C-/ArbolBinario/src/BST.cpp
+

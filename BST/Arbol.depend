@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1553871210 source:/home/gerardo/Itesm/Data Structures/BST/main.cpp
+	"BST.h"
+	<iostream>
+
+1552956844 source:/home/gerardo/Itesm/Data Structures/BST/src/BST.cpp
+
+1553870898 /home/gerardo/Itesm/Data Structures/BST/include/BST.h
+	"NodeT.h"
+	<cstddef>
+	<iostream>
+	<stack>
+	<queue>
+
+1552957341 /home/gerardo/Itesm/Data Structures/BST/include/NodeT.h
+	<iostream>
+	<cstddef>
+
+1552957317 source:/home/gerardo/Itesm/Data Structures/BST/src/NodeT.cpp
+
+1554878426 source:/home/gerardo/Documents/Itesm/Data Structures/BST/main.cpp
+	"BST.h"
+	<iostream>
+
+1553874187 /home/gerardo/Documents/Itesm/Data Structures/BST/include/BST.h
+	"NodeT.h"
+	<cstddef>
+	<iostream>
+	<stack>
+	<queue>
+
+1552957341 /home/gerardo/Documents/Itesm/Data Structures/BST/include/NodeT.h
+	<iostream>
+	<cstddef>
+
+1552956844 source:/home/gerardo/Documents/Itesm/Data Structures/BST/src/BST.cpp
+
+1552957317 source:/home/gerardo/Documents/Itesm/Data Structures/BST/src/NodeT.cpp
+
